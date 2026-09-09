@@ -9,11 +9,21 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammad-abdo&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Mohammad-abdo?style=for-the-badge&color=6366f1&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <p align="center">
   <a href="https://portofolio-ugh1.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0f0c29?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/Mohammad-abdo"><img src="https://img.shields.io/badge/💻_GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://wa.me/201120916853"><img src="https://img.shields.io/badge/📱_WhatsApp-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
+</p>
+
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-arsenal">Tech Stack</a> •
+  <a href="#️-featured-systems">Projects</a> •
+  <a href="#-github-intelligence">Stats</a> •
+  <a href="#-connect-with-me">Contact</a>
 </p>
 
 ---
@@ -35,6 +45,8 @@ Status   : Open to freelance & full-time opportunities 🟢
 + Comfortable owning a project end-to-end: schema, API, frontend, deployment
 + Also work across low-current/security systems: CCTV, access control, networking
 ```
+
+> 💡 **What I'm focused on right now:** designing relational schemas that scale past 40+ tables without turning into spaghetti — and pairing them with clean, well-documented APIs.
 
 ---
 
@@ -159,6 +171,10 @@ Scope        : Brand identity for a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-abdo&bg_color=0d1117&color=6366f1&line=00f7ff&point=f59e0b&area=true&hide_border=true" width="95%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-abdo&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%"/>
+</p>
+
 ---
 
 ## 🧬 Architecture Mindset
@@ -178,7 +194,7 @@ class MohamedAbdlrahman {
   };
 
   principles = [
-    "Clean Architecture",
+    "Clean architecture over clever shortcuts",
     "Relational schema design at scale",
     "API-first development",
     "Performance under real-world load",
