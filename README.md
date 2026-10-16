@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammad-abdo&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Mohammad-abdo?style=for-the-badge&color=6366f1&labelColor=0d1117&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-22c55e?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 Name     : Mohamed Abdlrahman Saad
 Role     : Full Stack / Backend Engineer
 Location : Cairo, Egypt 🇪🇬
-Phone    : +20 112 091 6853
+Contact  : WhatsApp / LinkedIn (links above)
 Focus    : Backend Architecture, ERP Systems & Scalable Platforms
 Status   : Open to freelance & full-time opportunities 🟢
 ```
@@ -48,6 +48,24 @@ Status   : Open to freelance & full-time opportunities 🟢
 ```
 
 > 💡 **What I'm focused on right now:** designing relational schemas that scale past 40+ tables without turning into spaghetti — and pairing them with clean, well-documented APIs.
+
+---
+
+## 💼 Work With Me
+
+**I take a project from idea to production** — database schema, API, frontend, and deployment — and hand it over documented and maintainable.
+
+- ✅ Backend & ERP systems (Node.js, Prisma, MySQL/PostgreSQL)
+- ✅ Full-stack web apps (Next.js, React, TypeScript)
+- ✅ E-commerce, logistics and management platforms
+- ✅ Fast, animated, Arabic/RTL-ready websites
+
+<p align="center">
+  <a href="https://wa.me/201120916853"><img src="https://img.shields.io/badge/Start_a_project_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-abdl-rahman-saad/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+**بالعربي:** بنفّذ مشروعك من الفكرة للإطلاق: تصميم قاعدة البيانات، والـ API، والواجهة، والنشر. كلمني واتساب أو لينكدإن.
 
 ---
 
@@ -267,7 +285,7 @@ class MohamedAbdlrahman {
 </p>
 
 <p align="center">
-  <b>📱 Phone / WhatsApp: <a href="https://wa.me/201120916853">+20 112 091 6853</a></b>
+  <b>📱 Message me on <a href="https://wa.me/201120916853">WhatsApp</a> or <a href="https://www.linkedin.com/in/mohammed-abdl-rahman-saad/">LinkedIn</a>.</b>
 </p>
 
 ---
