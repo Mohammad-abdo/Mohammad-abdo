@@ -173,6 +173,29 @@ Repo         : github.com/Mohammad-abdo/hekayetna
 
 ---
 
+## 🤝 Client Work — Types of Projects I Deliver
+
+> Most of my client work is private, so I describe the **kind** of systems I build rather than who they are built for.
+
+| Domain | What I build |
+|---|---|
+| 🏢 **ERP & business management** | Multi-branch systems: inventory, sales, payroll, reporting, role-based access |
+| 🛒 **E-commerce & multi-vendor marketplaces** | Storefronts, admin panels, payment-gateway integration |
+| 🚚 **Logistics & ride/fleet management** | Shipment and trip tracking, dispatch dashboards, mobile companion apps |
+| ⚖️ **Office & case management** | Management systems for professional-services offices |
+| 📝 **Evaluation & assessment platforms** | Scoring, review workflows, backend APIs |
+| 🌐 **Websites & brand experiences** | Fast, animated, Arabic/RTL-ready sites for small businesses |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/160%2B-repositories_since_2022-6366f1?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/mostly-JavaScript_%26_TypeScript-6366f1?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/also-PHP_%26_Dart-6366f1?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+**بالعربي:** أغلب شغلي لعملاء وبيفضل خاص، فبكتب هنا **نوع** الأنظمة اللي بنفّذها (إدارة شركات، تجارة إلكترونية، لوجستيات، إدارة مكاتب، منصات تقييم، مواقع بهوية مميزة) من غير ذكر أسماء العملاء.
+
+---
+
 ## 📊 GitHub Intelligence
 
 <p align="center">
