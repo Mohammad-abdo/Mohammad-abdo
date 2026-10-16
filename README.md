@@ -34,7 +34,7 @@
 ```yaml
 Name     : Mohamed Abdlrahman Saad
 Role     : Full Stack / Backend Engineer
-Company  : QeemaTech
+Works at : QeemaTech
 Location : Cairo, Egypt 🇪🇬
 Contact  : WhatsApp / LinkedIn (links above)
 Focus    : Backend Architecture, ERP Systems & Scalable Platforms
@@ -66,7 +66,7 @@ Status   : Open to freelance & full-time opportunities 🟢
   <a href="https://www.linkedin.com/in/mohammed-abdl-rahman-saad/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-**بالعربي:** بنفّذ مشروعك من الفكرة للإطلاق: تصميم قاعدة البيانات، والـ API، والواجهة، والنشر. كلمني واتساب أو لينكدإن، وبنفّذه من خلال شركتي **QeemaTech**.
+**بالعربي:** بنفّذ مشروعك من الفكرة للإطلاق: تصميم قاعدة البيانات، والـ API، والواجهة، والنشر. كلمني واتساب أو لينكدإن. أعمل حاليًا في **QeemaTech**.
 
 ---
 
