@@ -16,6 +16,7 @@
   <a href="https://portofolio-ugh1.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0f0c29?style=for-the-badge&logoColor=white" /></a>
   <a href="https://github.com/Mohammad-abdo"><img src="https://img.shields.io/badge/💻_GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://wa.me/201120916853"><img src="https://img.shields.io/badge/📱_WhatsApp-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-abdl-rahman-saad/"><img src="https://img.shields.io/badge/💼_LinkedIn-0f0c29?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -256,6 +257,9 @@ class MohamedAbdlrahman {
   </a>
   <a href="https://wa.me/201120916853">
     <img src="https://img.shields.io/badge/📱_WhatsApp-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-abdl-rahman-saad/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0f0c29?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://github.com/Mohammad-abdo">
     <img src="https://img.shields.io/badge/💻_GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" />
