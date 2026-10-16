@@ -152,6 +152,23 @@ Scope        : Brand identity for a
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### ☕ Hekayetna — Specialty Coffee Roaster Site
+```yaml
+Stack        : HTML, CSS, JavaScript,
+               Tailwind, GSAP, Three.js
+Language     : Arabic (RTL)
+Features     : 3D hero, brew simulator,
+               roast curve lab, taste
+               matcher, subscription calc
+Repo         : github.com/Mohammad-abdo/hekayetna
+```
+
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ---
