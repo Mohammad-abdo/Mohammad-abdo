@@ -52,9 +52,9 @@ Status   : Open to freelance & full-time opportunities 🟢
 
 ---
 
-## 💼 Work With Me
+## 💼 What I Do
 
-**I take a project from idea to production** — database schema, API, frontend, and deployment — and hand it over documented and maintainable.
+**I build systems end to end** — database schema, API, frontend, and deployment — currently at **QeemaTech**.
 
 - ✅ Backend & ERP systems (Node.js, Prisma, MySQL/PostgreSQL)
 - ✅ Full-stack web apps (Next.js, React, TypeScript)
@@ -62,11 +62,11 @@ Status   : Open to freelance & full-time opportunities 🟢
 - ✅ Fast, animated, Arabic/RTL-ready websites
 
 <p align="center">
-  <a href="https://wa.me/201120916853"><img src="https://img.shields.io/badge/Start_a_project_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/201120916853"><img src="https://img.shields.io/badge/Message_me_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohammed-abdl-rahman-saad/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-**بالعربي:** بنفّذ مشروعك من الفكرة للإطلاق: تصميم قاعدة البيانات، والـ API، والواجهة، والنشر. كلمني واتساب أو لينكدإن. أعمل حاليًا في **QeemaTech**.
+**بالعربي:** بنفّذ أنظمة من الفكرة للإطلاق: تصميم قاعدة البيانات، والـ API، والواجهة، والنشر. أعمل حاليًا في **QeemaTech**، وتقدر تتواصل معايا على واتساب أو لينكدإن.
 
 ---
 
