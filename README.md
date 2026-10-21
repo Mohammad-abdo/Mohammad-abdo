@@ -66,11 +66,6 @@ Status   : Open to freelance & full-time opportunities 🟢
   <a href="https://www.linkedin.com/in/mohammed-abdl-rahman-saad/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-<div dir="rtl" align="right">
-
-**بالعربي:** أنا مهندس برمجيات، بنفّذ الأنظمة كاملة من الفكرة لحد الإطلاق، يعني قاعدة البيانات والواجهات الخلفية والواجهة الأمامية والنشر. أعمل حاليًا في شركة **QeemaTech**، وتقدر تتواصل معايا على واتساب أو لينكدإن.
-
-</div>
 
 ---
 
