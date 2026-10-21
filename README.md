@@ -211,11 +211,7 @@ Repo         : github.com/Mohammad-abdo/hekayetna
   <img src="https://img.shields.io/badge/also-PHP_%26_Dart-6366f1?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-<div dir="rtl" align="right">
 
-**بالعربي:** أغلب شغلي لعملاء، وعشان كده بيفضل خاص. بعرض هنا **أنواع الأنظمة** اللي نفّذتها (إدارة شركات، تجارة إلكترونية، لوجستيات، إدارة مكاتب، منصات تقييم، مواقع بهوية مميزة) من غير ذكر أي أسماء عملاء.
-
-</div>
 
 ---
 
